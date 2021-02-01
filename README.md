@@ -1,6 +1,7 @@
 # RShinyApp
 
 link to shiny app: https://hsu230.shinyapps.io/MasterProgram/
+
 link to poster that won 1st place in the OR/MS Mini-poster Competition: https://www.linkedin.com/feed/update/urn:li:activity:6741096909919916032/
 
 This project was for my Using R for Analytics class. The goal was to create an R Shiny App that help the business and did two types of analytics (descriptive, predictive, prescriptive). Utilizing data on Analytics Masters Programs, we were tasked with taking a look at the course offerings and see the impact of course offerings on program outcomes like Starting Salary and Placement Rate. 
